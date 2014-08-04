@@ -1,0 +1,30 @@
+{
+  "name": "corpapp-grunt-app",
+  "version": "0.0.0",
+  "description": "corpapp-grunt-app ",
+  "main": "corpapp-grunt-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilmveel/corpapp-grunt-app.git"
+  },
+  "author": {
+    "name": "Willem Veelenturf"
+  },
+  "bugs": {
+    "url": "https://github.com/wilmveel/corpapp-grunt-app/issues"
+  },
+  "homepage": "https://github.com/wilmveel/corpapp-grunt-app",
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "0.4.0",
+    "grunt-contrib-connect": "0.8.0",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-contrib-jshint": "0.10.0",
+    "grunt-contrib-uglify": "0.5.0",
+    "grunt-contrib-cssmin": "0.10.0",
+    "grunt-processhtml": "0.3.3",
+    "grunt-hub": "0.7.0",
+    "corpapp-grunt": "git+https://github.com/wilmveel/corpapp-grunt.git#master"
+  },
+  "devDependencies": {}
+}
