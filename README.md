@@ -1,7 +1,7 @@
 packer-app
 =================
 
-Packer App integrate multiple modules together into one app. Base on the bower file all dependencies will be analized and build togeter in one app.
+Packer app integrates multiple modules together into one app. Based on the Bower file all dependencies will be analyzed and built together in one app.
 
 Grunt Modules
 ------------
